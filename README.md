@@ -1,2 +1,2 @@
 # eda-banking-churn
-EDA - Projeto pessoal sobre Churn Telecom India. Dados retirados da plataforma Kaggle.
+Análise Exploratória dos dados sobre Churn Telecom India. A Análise foi feita no Google Colab usando a Linguagem Python e a biblioteca Pandas. Link do conjunto de dados disponível diretamente no notebook.
